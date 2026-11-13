@@ -1,0 +1,22 @@
+# Virtual machines and installation files
+*.vdi
+*.vbox
+*.iso
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Credentials and environment variables
+.env
+.env.*
+!.env.example
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
